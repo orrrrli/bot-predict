@@ -1,0 +1,9 @@
+# Crear un entorno virtual
+python -m venv venv
+
+# Activar el entorno virtual
+# En Windows:
+venv\Scripts\activate
+
+#Ejecutar
+python app.py  

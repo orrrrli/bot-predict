@@ -1,0 +1,16 @@
+# Ignorar archivos de entorno
+variables.env
+
+# Ignorar archivos y carpetas de Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+ENV/
+.venv/
+.env/
+
+# Ignorar archivos y carpetas de node_modules
+node_modules/
